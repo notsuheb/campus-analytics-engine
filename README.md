@@ -116,7 +116,7 @@ correctly:
 
 ---
 
-## Design notes (useful for the viva)
+## Design notes 
 
 * **No STL algorithms.** Sorting is hand-written: selection sort
   (`listActiveStudents`, median in `computeClassState`) and bubble sort
