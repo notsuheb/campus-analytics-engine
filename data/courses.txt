@@ -1,0 +1,8 @@
+course_code,course_name,credit_hours,instructor,capacity,enrolled,prerequisite
+CS101,Programming Fundamentals,3,Dr. Imran Shah,35,28,NONE
+CS102,Object Oriented Programming,3,Dr. Sara Malik,35,0,CS101
+CS111,Calculus and Analytical Geometry,3,Dr. Tariq Mehmood,40,28,NONE
+CS121,Applied Physics,2,Mr. Asif Nadeem,40,25,NONE
+HU101,Functional English,2,Ms. Rubina Akhtar,40,28,NONE
+IS101,Islamic Studies,2,Mr. Bilal Usman,45,28,NONE
+CS201,Data Structures,3,Dr. Khalid Raza,30,0,CS101

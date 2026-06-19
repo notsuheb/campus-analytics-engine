@@ -1,0 +1,10 @@
+# Compiled binary
+campus_engine
+*.exe
+
+# Object files
+*.o
+
+# Reports exported at runtime (keep the data/ inputs, ignore generated reports)
+*_report.txt
+merit.txt
